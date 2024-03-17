@@ -1,0 +1,1 @@
+The college Trip website is a webiste for the college students to register for the trip . The website is built with html and css . The data given by the students are stored in the data base by using php.
